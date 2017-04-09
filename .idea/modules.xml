@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LSY_PullupRecyclerView.iml" filepath="$PROJECT_DIR$/LSY_PullupRecyclerView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pulluprecyclerview/pulluprecyclerview.iml" filepath="$PROJECT_DIR$/pulluprecyclerview/pulluprecyclerview.iml" />
+    </modules>
+  </component>
+</project>
